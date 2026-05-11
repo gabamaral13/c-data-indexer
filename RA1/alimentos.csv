@@ -1,0 +1,433 @@
+Numero,Descricao,Umidade (%),Energia (Kcal),Proteina (g),Carboidrato (g),Categoria
+1,Arroz agulhinha branco cozido,72.7,128,2.5,27.8,Cereais e derivados
+2,Arroz agulhinha integral cozido,70.3,124,2.6,26.9,Cereais e derivados
+3,Arroz agulhinha parboilizado cozido,71.9,129,2.4,28.3,Cereais e derivados
+4,Arroz cateto integral cozido,70.1,124,2.6,27.0,Cereais e derivados
+5,Arroz moti cozido,69.9,138,2.6,30.8,Cereais e derivados
+6,Arroz integral cozido,72.5,119,2.6,25.8,Cereais e derivados
+7,Biscoito agua e sal,2.0,431,9.2,74.2,Cereais e derivados
+8,Biscoito doce maisena,2.0,428,7.0,76.0,Cereais e derivados
+9,Biscoito doce recheado com chocolate,1.4,479,4.6,70.6,Cereais e derivados
+10,Biscoito doce recheado com morango,1.4,473,5.1,70.5,Cereais e derivados
+11,Biscoito doce waffer sabor chocolate,1.0,506,5.1,66.8,Cereais e derivados
+12,Biscoito doce waffer sabor morango,1.0,497,5.7,67.8,Cereais e derivados
+13,Bolo pronto aipim (mandioca),35.5,313,5.2,44.0,Cereais e derivados
+14,Bolo pronto laranja,28.0,359,5.6,45.2,Cereais e derivados
+15,Bolo pronto mesclado,28.4,340,5.7,46.3,Cereais e derivados
+16,Bolo pronto milho,28.2,344,4.8,47.1,Cereais e derivados
+17,Bolo pronto simples,32.5,330,6.2,47.6,Cereais e derivados
+18,Broa de milho,23.0,368,6.8,57.1,Cereais e derivados
+19,Cereal milho flocos com acucar,2.3,383,6.9,89.3,Cereais e derivados
+20,Cereal milho flocos sem acucar,3.8,363,7.2,85.9,Cereais e derivados
+21,Cereal arroz grao expandido com chocolate,3.0,385,5.1,88.7,Cereais e derivados
+22,Creme de arroz po,11.1,384,7.2,81.2,Cereais e derivados
+23,Creme de milho po,12.5,383,7.0,80.2,Cereais e derivados
+24,Farinha de arroz,11.9,362,7.2,77.7,Cereais e derivados
+25,Farinha de milho amarela,13.1,361,6.9,76.5,Cereais e derivados
+26,Farinha de milho branca,13.2,360,7.1,76.4,Cereais e derivados
+27,Farinha de rosca,10.8,370,11.0,75.8,Cereais e derivados
+28,Farofa de farinha de milho com manteiga,12.0,388,4.9,67.4,Cereais e derivados
+29,Farofa de farinha de mandioca com manteiga,13.7,363,1.6,73.8,Cereais e derivados
+30,Lasanha massa fresca cozida,60.6,175,5.8,33.1,Cereais e derivados
+31,Macarrao instantaneo cozido,75.9,92,2.8,13.4,Cereais e derivados
+32,Macarrao comum cozido,71.8,148,5.0,31.7,Cereais e derivados
+33,Macarrao semola com ovos cozido,65.4,185,6.1,38.6,Cereais e derivados
+34,Macarrao semola sem ovos cozido,65.1,186,6.2,40.8,Cereais e derivados
+35,Macarrao semola integral cozido,67.5,165,6.4,34.4,Cereais e derivados
+36,Mandioca farinha de mesa crua,13.1,361,1.2,84.5,Cereais e derivados
+37,Mandioca farinha dagua crua,13.3,361,1.5,84.1,Cereais e derivados
+38,Mandioca farinha de copioba crua,13.7,360,1.3,84.3,Cereais e derivados
+39,Mandioca farinha torrada,13.7,362,1.1,84.2,Cereais e derivados
+40,Massa de panqueca pronta,62.5,155,6.3,22.4,Cereais e derivados
+41,Milho fuba,12.5,364,7.1,77.5,Cereais e derivados
+42,Milho grao cozido,76.3,98,3.2,18.8,Cereais e derivados
+43,Milho grao enlatado,73.9,120,3.4,22.0,Cereais e derivados
+44,Milho farinha de cuscuz cozida,73.5,108,2.7,22.9,Cereais e derivados
+45,Mingau de milho branco,86.9,54,1.0,11.2,Cereais e derivados
+46,Pao aveia,35.1,281,8.5,49.2,Cereais e derivados
+47,Pao de forma branco,35.8,268,7.9,51.0,Cereais e derivados
+48,Pao de forma integral,34.6,253,8.5,47.5,Cereais e derivados
+49,Pao de forma light,38.5,231,8.3,42.2,Cereais e derivados
+50,Pao frances,31.7,298,8.0,57.7,Cereais e derivados
+51,Pao milho,30.0,293,8.0,55.8,Cereais e derivados
+52,Pao de queijo assado,41.0,272,7.0,37.8,Cereais e derivados
+53,Pastel de carne assado,38.6,317,9.0,37.7,Cereais e derivados
+54,Pastel de queijo assado,44.0,292,11.0,35.0,Cereais e derivados
+55,Pipoca com oleo salgada,2.0,445,10.8,65.8,Cereais e derivados
+56,Pao torrada,3.0,395,11.3,78.6,Cereais e derivados
+57,Trigo farinha,12.9,360,10.6,74.4,Cereais e derivados
+58,Trigo farinha integral,11.4,347,12.2,71.0,Cereais e derivados
+59,Abobora cabotian cozida,90.7,36,1.2,7.7,Verduras hortalicas e derivados
+60,Abobora cabotian crua,89.8,37,1.0,8.6,Verduras hortalicas e derivados
+61,Abobora moranga cozida,92.6,27,0.8,5.9,Verduras hortalicas e derivados
+62,Abobora moranga crua,91.7,30,0.7,6.9,Verduras hortalicas e derivados
+63,Abobrinha crua,95.3,19,0.9,3.3,Verduras hortalicas e derivados
+64,Abobrinha cozida,95.4,16,0.7,3.6,Verduras hortalicas e derivados
+65,Agriao cru,93.0,26,2.3,3.8,Verduras hortalicas e derivados
+66,Aipo (salsao) cru,94.3,19,0.9,3.5,Verduras hortalicas e derivados
+67,Alface americana crua,95.5,15,0.7,2.3,Verduras hortalicas e derivados
+68,Alface crespa crua,95.5,14,1.3,1.9,Verduras hortalicas e derivados
+69,Alface roxa crua,95.1,15,0.9,2.8,Verduras hortalicas e derivados
+70,Alho cru,60.6,106,7.0,26.3,Verduras hortalicas e derivados
+71,Alho-poro cru,88.7,42,1.5,9.5,Verduras hortalicas e derivados
+72,Aspargo em conserva,93.1,16,1.6,3.2,Verduras hortalicas e derivados
+73,Batata baroa (mandioquinha) cozida,70.3,106,1.1,27.7,Verduras hortalicas e derivados
+74,Batata cozida,80.2,77,1.8,17.9,Verduras hortalicas e derivados
+75,Batata doce cozida,72.5,86,0.6,20.1,Verduras hortalicas e derivados
+76,Batata frita tipo fast food,52.3,267,5.6,32.5,Verduras hortalicas e derivados
+77,Berinjela crua,93.0,23,1.2,4.0,Verduras hortalicas e derivados
+78,Berinjela cozida,93.4,20,0.9,4.6,Verduras hortalicas e derivados
+79,Beterraba cozida,88.6,43,1.7,9.6,Verduras hortalicas e derivados
+80,Brocolis cozido,90.7,25,2.1,4.4,Verduras hortalicas e derivados
+81,Broto de bambu em conserva,93.2,21,1.9,4.3,Verduras hortalicas e derivados
+82,Broto de feijao cru,93.9,21,2.6,3.1,Verduras hortalicas e derivados
+83,Cara cozido,72.2,100,1.8,24.9,Verduras hortalicas e derivados
+84,Catalonha crua,93.4,20,1.6,3.2,Verduras hortalicas e derivados
+85,Cebola crua,93.6,21,1.4,3.7,Verduras hortalicas e derivados
+86,Cenoura cozida,91.4,33,0.6,7.5,Verduras hortalicas e derivados
+87,Cenoura crua,90.9,34,1.3,7.7,Verduras hortalicas e derivados
+88,Chicoria crua,95.2,14,1.3,2.4,Verduras hortalicas e derivados
+89,Chuchu cozido,95.8,15,0.7,3.0,Verduras hortalicas e derivados
+90,Couve refogada,89.7,38,1.7,4.5,Verduras hortalicas e derivados
+91,Couve-flor cozida,92.8,20,1.7,3.8,Verduras hortalicas e derivados
+92,Couve-flor crua,92.1,25,2.1,4.7,Verduras hortalicas e derivados
+93,Escarola crua,94.3,18,1.4,3.4,Verduras hortalicas e derivados
+94,Gengibre cru,79.1,64,1.8,14.0,Verduras hortalicas e derivados
+95,Jilo cru,93.4,23,1.3,4.3,Verduras hortalicas e derivados
+96,Mandioca cozida,61.7,151,0.5,37.8,Verduras hortalicas e derivados
+97,Maxixe cru,94.4,16,1.4,3.0,Verduras hortalicas e derivados
+98,Nabo cru,93.4,23,1.0,4.8,Verduras hortalicas e derivados
+99,Palmito em conserva,92.0,20,2.0,3.5,Verduras hortalicas e derivados
+100,Pepino cru,95.9,15,0.7,3.2,Verduras hortalicas e derivados
+101,Pimentao verde cru,92.4,23,1.2,5.0,Verduras hortalicas e derivados
+102,Quiabo cozido,92.4,30,2.0,5.1,Verduras hortalicas e derivados
+103,Rabanete cru,94.9,18,1.0,3.4,Verduras hortalicas e derivados
+104,Repolho branco cru,94.1,20,1.0,4.4,Verduras hortalicas e derivados
+105,Repolho roxo cru,93.5,24,1.2,5.0,Verduras hortalicas e derivados
+106,Rucula crua,93.5,21,1.8,3.7,Verduras hortalicas e derivados
+107,Taioba crua,92.5,24,2.1,4.6,Verduras hortalicas e derivados
+108,Tomate cru,94.3,20,1.1,3.9,Verduras hortalicas e derivados
+109,Tomate extrato,73.9,90,4.0,20.8,Verduras hortalicas e derivados
+110,Tomate molho pronto,85.9,56,1.8,9.3,Verduras hortalicas e derivados
+111,Vagem crua,90.7,35,2.4,6.8,Verduras hortalicas e derivados
+112,Vagem cozida,91.9,28,1.7,5.9,Verduras hortalicas e derivados
+113,Inhame cozido,66.1,116,1.2,30.0,Verduras hortalicas e derivados
+114,Abacate cru,78.8,162,1.2,6.0,Frutas e derivados
+115,Abacaxi cru,87.1,48,0.3,12.3,Frutas e derivados
+116,Abacaxi em calda,78.3,81,0.2,21.3,Frutas e derivados
+117,Abacaxi em calda escorrido,67.1,121,0.3,31.9,Frutas e derivados
+118,Abiu cru,82.7,60,0.7,16.4,Frutas e derivados
+119,Acai polpa com xarope de guarana,49.8,160,1.5,28.4,Frutas e derivados
+120,Ameixa preta seca,31.0,229,2.1,60.0,Frutas e derivados
+121,Amora crua,90.1,43,1.3,7.6,Frutas e derivados
+122,Banana prata crua,70.3,98,1.4,25.8,Frutas e derivados
+123,Banana nanica crua,71.8,89,1.3,23.2,Frutas e derivados
+124,Banana dagua crua,72.9,92,1.1,24.3,Frutas e derivados
+125,Banana ouro crua,66.4,112,1.4,30.0,Frutas e derivados
+126,Banana terra crua,65.3,122,1.6,32.5,Frutas e derivados
+127,Caju cru,87.2,43,0.8,11.1,Frutas e derivados
+128,Caqui chocolate cru,79.0,71,0.5,19.9,Frutas e derivados
+129,Carambola crua,91.4,43,0.4,7.5,Frutas e derivados
+130,Cereja em calda,62.6,138,0.1,36.8,Frutas e derivados
+131,Ciriguela crua,84.5,54,0.8,14.3,Frutas e derivados
+132,Coco cru,36.0,353,3.5,10.7,Frutas e derivados
+133,Cupuacu polpa crua,82.4,51,1.1,12.3,Frutas e derivados
+134,Figo cru,78.0,68,0.7,18.4,Frutas e derivados
+135,Goiaba branca crua,82.0,58,0.7,15.2,Frutas e derivados
+136,Goiaba vermelha crua,81.7,59,0.9,15.3,Frutas e derivados
+137,Graviola crua,82.2,62,0.8,16.1,Frutas e derivados
+138,Jaca crua,77.5,82,1.4,20.2,Frutas e derivados
+139,Jabuticaba crua,88.9,45,0.6,10.5,Frutas e derivados
+140,Laranja baia crua,88.7,45,1.0,10.8,Frutas e derivados
+141,Laranja pera crua,89.3,46,0.9,11.3,Frutas e derivados
+142,Laranja seleta crua,88.6,50,0.8,11.7,Frutas e derivados
+143,Limao taiti cru,91.0,29,1.1,6.8,Frutas e derivados
+144,Maca com casca crua,84.1,60,0.3,15.9,Frutas e derivados
+145,Maca sem casca crua,85.6,56,0.2,14.8,Frutas e derivados
+146,Mamao Formosa cru,91.4,40,0.5,10.4,Frutas e derivados
+147,Mamao Papaia cru,88.6,45,0.5,11.6,Frutas e derivados
+148,Manga madura crua,82.1,64,0.5,16.9,Frutas e derivados
+149,Maracuja suco concentrado sem acucar,78.0,90,2.4,18.9,Frutas e derivados
+150,Melancia crua,91.8,31,0.6,7.5,Frutas e derivados
+151,Melao cru,90.7,36,0.8,8.5,Frutas e derivados
+152,Morango cru,90.4,38,0.6,8.2,Frutas e derivados
+153,Nespera crua,88.1,48,0.4,12.5,Frutas e derivados
+154,Pera com casca crua,83.8,62,0.6,16.4,Frutas e derivados
+155,Pera sem casca crua,83.9,63,0.6,16.6,Frutas e derivados
+156,Pessego cru,87.5,50,0.6,12.7,Frutas e derivados
+157,Pessego em calda,74.4,98,0.5,24.9,Frutas e derivados
+158,Pinha crua,76.0,86,1.7,21.6,Frutas e derivados
+159,Tangerina ponkan crua,86.9,48,0.9,12.7,Frutas e derivados
+160,Uva Italia crua,83.0,57,0.6,15.2,Frutas e derivados
+161,Uva Thompson sem semente crua,82.8,58,0.6,15.5,Frutas e derivados
+162,Oleo de linhaca,0.0,900,0.0,0.0,Gorduras e oleos
+163,Azeite de dende,0.0,900,0.0,0.0,Gorduras e oleos
+164,Azeite de oliva extra virgem,0.0,900,0.0,0.0,Gorduras e oleos
+165,Manteiga com sal,16.0,734,0.3,0.1,Gorduras e oleos
+166,Manteiga sem sal,16.0,734,0.3,0.1,Gorduras e oleos
+167,Margarina com sal 65% de lipideos,33.1,592,0.0,0.0,Gorduras e oleos
+168,Margarina com sal 80% de lipideos,16.7,727,0.1,0.1,Gorduras e oleos
+169,Margarina sem sal 65% de lipideos,33.1,592,0.0,0.0,Gorduras e oleos
+170,Margarina sem sal 80% de lipideos,16.7,727,0.1,0.1,Gorduras e oleos
+171,Oleo de babacu,0.0,900,0.0,0.0,Gorduras e oleos
+172,Oleo de canola,0.0,900,0.0,0.0,Gorduras e oleos
+173,Oleo de girassol,0.0,900,0.0,0.0,Gorduras e oleos
+174,Oleo de milho,0.0,900,0.0,0.0,Gorduras e oleos
+175,Oleo de peixe,0.0,900,0.0,0.0,Gorduras e oleos
+176,Oleo de soja,0.0,900,0.0,0.0,Gorduras e oleos
+177,Sardinha assada,55.8,171,25.3,0.3,Pescados e frutos do mar
+178,Sardinha conserva em oleo,53.0,202,24.2,1.1,Pescados e frutos do mar
+179,Sardinha frita,53.9,184,24.2,0.0,Pescados e frutos do mar
+180,Sardinha inteira crua,65.5,127,19.9,0.0,Pescados e frutos do mar
+181,Salmao sem pele fresco grelhado,59.1,170,24.6,0.0,Pescados e frutos do mar
+182,Salmao file com pele fresco grelhado,57.7,190,24.6,0.0,Pescados e frutos do mar
+183,Salmao sem pele fresco cru,62.5,153,22.4,0.0,Pescados e frutos do mar
+184,Camarao cozido,74.4,90,21.3,0.0,Pescados e frutos do mar
+185,Camarao cru,78.6,71,17.1,0.0,Pescados e frutos do mar
+186,Caranguejo cozido,78.1,83,18.2,0.0,Pescados e frutos do mar
+187,Carne de siri cozida,77.5,82,17.7,0.0,Pescados e frutos do mar
+188,Lagosta cozida,76.0,91,20.5,0.0,Pescados e frutos do mar
+189,Ostra crua,78.2,82,9.0,6.8,Pescados e frutos do mar
+190,Pescada file crua,78.5,71,15.8,0.0,Pescados e frutos do mar
+191,Pescada file assada,70.7,100,22.1,0.0,Pescados e frutos do mar
+192,Pescada file cozida,72.5,97,20.5,0.0,Pescados e frutos do mar
+193,Pescada file frita,63.0,151,23.3,0.0,Pescados e frutos do mar
+194,Pescada file grelhada,70.3,106,22.7,0.0,Pescados e frutos do mar
+195,Peixe badejo file cru,78.0,73,16.4,0.0,Pescados e frutos do mar
+196,Peixe badejo file assado,70.5,98,21.9,0.0,Pescados e frutos do mar
+197,Peixe badejo file grelhado,71.0,103,21.4,0.0,Pescados e frutos do mar
+198,Peixe cacao file cru,77.3,77,16.3,0.0,Pescados e frutos do mar
+199,Peixe cacao file cozido,69.9,97,20.3,0.0,Pescados e frutos do mar
+200,Peixe cacao file ensopado,71.8,97,19.3,0.0,Pescados e frutos do mar
+201,Peixe corvina crua,74.6,86,18.9,0.0,Pescados e frutos do mar
+202,Peixe corvina assada,67.8,110,24.2,0.0,Pescados e frutos do mar
+203,Peixe linguado file cru,78.0,73,15.8,0.0,Pescados e frutos do mar
+204,Peixe linguado file cozido,73.9,93,19.9,0.0,Pescados e frutos do mar
+205,Peixe linguado file grelhado,71.0,114,22.2,0.0,Pescados e frutos do mar
+206,Peixe merluza file cru,77.0,78,15.5,0.0,Pescados e frutos do mar
+207,Peixe merluza file cozido,70.4,100,19.9,0.0,Pescados e frutos do mar
+208,Peixe merluza file frito,64.3,144,21.7,0.0,Pescados e frutos do mar
+209,Peixe namorado file cru,75.8,80,17.7,0.0,Pescados e frutos do mar
+210,Peixe namorado file assado,68.7,106,23.3,0.0,Pescados e frutos do mar
+211,Peixe namorado file grelhado,69.1,108,22.3,0.0,Pescados e frutos do mar
+212,Peixe tainha crua,70.2,106,19.5,0.0,Pescados e frutos do mar
+213,Peixe tainha assada,61.7,145,24.9,0.0,Pescados e frutos do mar
+214,Peixe tucunare file cru,75.5,90,19.0,0.0,Pescados e frutos do mar
+215,Peixe tucunare file assado,69.1,113,24.2,0.0,Pescados e frutos do mar
+216,Peixe tilapia file cru,78.7,70,15.7,0.0,Pescados e frutos do mar
+217,Peixe tilapia file assado,71.7,96,21.4,0.0,Pescados e frutos do mar
+218,Peixe tilapia file cozido,71.9,95,20.1,0.0,Pescados e frutos do mar
+219,Peixe tilapia file frito,64.4,142,22.9,0.0,Pescados e frutos do mar
+220,Peixe tilapia file grelhado,71.7,101,21.0,0.0,Pescados e frutos do mar
+221,Polvo cozido,77.8,82,15.3,1.7,Pescados e frutos do mar
+222,Mexilhao cozido,75.7,93,17.2,1.5,Pescados e frutos do mar
+223,Vongole cru,81.5,63,11.1,1.7,Pescados e frutos do mar
+224,Boi acem cru,74.4,105,20.0,0.0,Carnes e derivados
+225,Boi acem cozido,63.6,175,29.4,0.0,Carnes e derivados
+226,Boi alcatra cru,73.9,114,20.9,0.0,Carnes e derivados
+227,Boi alcatra grelhada,60.6,192,32.5,0.0,Carnes e derivados
+228,Boi contra-file sem gordura cru,73.2,121,21.5,0.0,Carnes e derivados
+229,Boi contra-file sem gordura grelhado,59.3,200,33.5,0.0,Carnes e derivados
+230,Boi contra-file com gordura cru,67.8,177,20.7,0.0,Carnes e derivados
+231,Boi contra-file com gordura grelhado,53.0,272,31.7,0.0,Carnes e derivados
+232,Boi costela assada,53.0,253,30.0,0.0,Carnes e derivados
+233,Boi costela crua,68.7,159,18.8,0.0,Carnes e derivados
+234,Boi figado grelhado,63.8,162,26.0,0.0,Carnes e derivados
+235,Boi figado cru,70.3,135,20.0,0.0,Carnes e derivados
+236,Boi fraldinha crua,73.9,107,20.6,0.0,Carnes e derivados
+237,Boi lagarto cozido,61.1,169,30.5,0.0,Carnes e derivados
+238,Boi lagarto cru,73.0,113,21.2,0.0,Carnes e derivados
+239,Boi miolo de alcatra cru,73.8,111,21.6,0.0,Carnes e derivados
+240,Boi miolo de alcatra grelhado,59.6,191,33.6,0.0,Carnes e derivados
+241,Boi maminha crua,73.6,111,21.6,0.0,Carnes e derivados
+242,Boi paleta crua,73.3,110,20.5,0.0,Carnes e derivados
+243,Boi patinho cru,74.4,104,20.7,0.0,Carnes e derivados
+244,Boi patinho cozido,63.1,174,29.9,0.0,Carnes e derivados
+245,Boi picanha com gordura crua,66.6,176,20.1,0.0,Carnes e derivados
+246,Boi picanha com gordura grelhada,50.4,293,30.4,0.0,Carnes e derivados
+247,Boi picanha sem gordura crua,72.8,118,21.5,0.0,Carnes e derivados
+248,Boi picanha sem gordura grelhada,58.0,203,33.7,0.0,Carnes e derivados
+249,Boi musculo cru,74.4,105,20.2,0.0,Carnes e derivados
+250,Boi musculo cozido,63.6,175,29.4,0.0,Carnes e derivados
+251,Boi cha de dentro cru,73.6,112,21.2,0.0,Carnes e derivados
+252,Boi cha de dentro grelhado,60.6,186,33.0,0.0,Carnes e derivados
+253,Boi cupim cru,59.3,231,19.6,0.0,Carnes e derivados
+254,Boi cupim cozido,48.6,317,28.7,0.0,Carnes e derivados
+255,Boi lingua cozida,62.0,185,26.0,0.0,Carnes e derivados
+256,Boi rabada cozida,54.0,235,26.7,0.0,Carnes e derivados
+257,Boi rim cru,74.8,105,17.7,0.0,Carnes e derivados
+258,Boi rim cozido,64.0,171,25.9,0.0,Carnes e derivados
+259,Boi coracao cru,76.0,110,17.0,0.0,Carnes e derivados
+260,Boi estomago cozido,78.8,89,15.8,0.0,Carnes e derivados
+261,Boi miolos cozidos,74.0,125,14.0,0.0,Carnes e derivados
+262,Boi tendao cozido,71.8,123,25.6,0.0,Carnes e derivados
+263,Boi salsicha,59.0,240,14.0,2.0,Carnes e derivados
+264,Carne de sol cozida,56.0,210,30.0,0.0,Carnes e derivados
+265,Carne de sol crua,65.0,170,25.0,0.0,Carnes e derivados
+266,Frango asa com pele crua,64.2,194,18.8,0.0,Carnes e derivados
+267,Frango asa com pele assada,55.8,260,24.9,0.0,Carnes e derivados
+268,Frango coracao cru,71.5,149,16.2,0.0,Carnes e derivados
+269,Frango coracao grelhado,61.2,221,24.2,0.0,Carnes e derivados
+270,Frango coxa com pele crua,62.7,208,19.6,0.0,Carnes e derivados
+271,Frango coxa com pele assada,52.2,279,25.6,0.0,Carnes e derivados
+272,Frango coxa sem pele crua,73.9,121,19.3,0.0,Carnes e derivados
+273,Frango coxa sem pele assada,62.9,179,28.4,0.0,Carnes e derivados
+274,Frango moela crua,72.5,127,18.0,0.0,Carnes e derivados
+275,Frango moela cozida,61.8,202,28.4,0.0,Carnes e derivados
+276,Frango peito com pele cru,67.0,159,19.3,0.0,Carnes e derivados
+277,Frango peito com pele assado,56.7,225,27.0,0.0,Carnes e derivados
+278,Frango peito sem pele cru,74.8,119,21.5,0.0,Carnes e derivados
+279,Frango peito sem pele grelhado,62.2,163,32.0,0.0,Carnes e derivados
+280,Frango sobrecoxa com pele crua,62.2,212,18.9,0.0,Carnes e derivados
+281,Frango sobrecoxa com pele assada,53.0,271,25.6,0.0,Carnes e derivados
+282,Frango sobrecoxa sem pele crua,73.9,121,19.3,0.0,Carnes e derivados
+283,Frango sobrecoxa sem pele assada,61.7,179,28.7,0.0,Carnes e derivados
+284,Frango pe cru,58.0,220,19.0,0.0,Carnes e derivados
+285,Frango pe cozido,48.0,280,25.0,0.0,Carnes e derivados
+286,Frango figado cru,69.0,135,20.0,0.0,Carnes e derivados
+287,Frango figado cozido,62.0,180,28.0,0.0,Carnes e derivados
+288,Lombo de porco cru,68.7,145,23.5,0.0,Carnes e derivados
+289,Lombo de porco assado,58.2,220,32.5,0.0,Carnes e derivados
+290,Porco costela assada,49.0,320,25.0,0.0,Carnes e derivados
+291,Porco costela crua,55.0,280,20.0,0.0,Carnes e derivados
+292,Porco pernil assado,57.0,220,32.0,0.0,Carnes e derivados
+293,Porco pernil cru,68.0,150,25.0,0.0,Carnes e derivados
+294,Linguica porco crua,40.0,380,15.0,1.0,Carnes e derivados
+295,Presunto,58.0,250,20.0,1.0,Carnes e derivados
+296,Boi hamburguer cru,60.0,230,18.0,0.0,Carnes e derivados
+297,Boi hamburguer frito,50.0,310,25.0,0.0,Carnes e derivados
+298,Ovo de galinha cozido,75.0,150,13.0,1.0,Ovos e derivados
+299,Ovo de galinha cru,75.0,150,13.0,1.0,Ovos e derivados
+300,Ovo de galinha frito,65.0,200,14.0,1.0,Ovos e derivados
+301,Ovo de pata cru,72.0,180,14.0,1.0,Ovos e derivados
+302,Ovo de codorna cru,74.0,160,13.0,1.0,Ovos e derivados
+303,Ovo gema cozida,45.0,330,16.0,1.0,Ovos e derivados
+304,Ovo clara cozida,88.0,50,11.0,1.0,Ovos e derivados
+305,Ovo gema crua,50.0,320,16.0,1.0,Ovos e derivados
+306,Leite de vaca integral,88.0,60,3.0,5.0,Leite e derivados
+307,Leite de vaca integral em po,4.0,500,26.0,39.0,Leite e derivados
+308,Leite de vaca semidesnatado,90.0,50,3.0,5.0,Leite e derivados
+309,Leite de vaca desnatado,91.0,40,3.0,5.0,Leite e derivados
+310,Leite de vaca condensado de lata,27.0,330,8.0,56.0,Leite e derivados
+311,Leite de vaca fermentado integral,88.0,60,3.0,5.0,Leite e derivados
+312,Leite de vaca fermentado semidesnatado,89.0,50,3.0,7.0,Leite e derivados
+313,Leite de vaca fermentado desnatado,90.0,40,3.0,7.0,Leite e derivados
+314,Iogurte natural integral,86.0,60,4.0,5.0,Leite e derivados
+315,Iogurte natural desnatado,87.0,50,5.0,7.0,Leite e derivados
+316,Iogurte sabor integral,83.0,80,3.0,11.0,Leite e derivados
+317,Iogurte sabor desnatado,84.0,60,3.0,12.0,Leite e derivados
+318,Queijo de minas frescal,60.0,240,17.0,1.0,Leite e derivados
+319,Queijo de minas padrao,47.0,320,25.0,1.0,Leite e derivados
+320,Queijo mucarela,48.0,330,22.0,1.0,Leite e derivados
+321,Queijo prato,45.0,350,24.0,1.0,Leite e derivados
+322,Queijo provolone,40.0,390,26.0,1.0,Leite e derivados
+323,Queijo ricota,65.0,160,13.0,1.0,Leite e derivados
+324,Queijo requeijao cremoso,60.0,230,10.0,3.0,Leite e derivados
+325,Queijo coalho,50.0,300,25.0,1.0,Leite e derivados
+326,Queijo cheddar,38.0,410,25.0,1.0,Leite e derivados
+327,Queijo parmesao,30.0,450,35.0,1.0,Leite e derivados
+328,Queijo cottage,75.0,100,12.0,3.0,Leite e derivados
+329,Soro de leite,94.0,20,1.0,4.0,Leite e derivados
+330,Abobora semente crua,6.0,560,25.0,15.0,Nozes e sementes
+331,Amendoim torrado salgado,2.0,580,26.0,13.0,Nozes e sementes
+332,Castanha de caju torrada salgada,2.0,580,18.0,32.0,Nozes e sementes
+333,Castanha do para crua,2.0,660,14.0,12.0,Nozes e sementes
+334,Coco seco ralado,3.0,660,7.0,23.0,Nozes e sementes
+335,Gergelim semente crua,5.0,570,18.0,10.0,Nozes e sementes
+336,Linhaca semente crua,7.0,530,18.0,28.0,Nozes e sementes
+337,Macadamia crua,2.0,720,8.0,14.0,Nozes e sementes
+338,Nozes cruas,3.0,650,15.0,14.0,Nozes e sementes
+339,Pinhao cozido,54.0,210,4.0,43.0,Nozes e sementes
+340,Pistache torrado salgado,2.0,560,20.0,28.0,Nozes e sementes
+341,Semente de girassol crua,5.0,580,20.0,20.0,Nozes e sementes
+342,Amendoa crua,5.0,590,21.0,20.0,Nozes e sementes
+343,Pinhao cru,45.0,310,6.0,63.0,Nozes e sementes
+344,Castanha de caju crua,5.0,550,18.0,30.0,Nozes e sementes
+345,Adocante sacarina e ciclamato liquido,99.0,0,0.0,0.0,Produtos acucarados
+346,Adocante aspartame po,5.0,400,0.0,100.0,Produtos acucarados
+347,Adocante sucralose liquido,99.0,0,0.0,0.0,Produtos acucarados
+348,Acucar branco,0.0,400,0.0,100.0,Produtos acucarados
+349,Acucar mascavo,1.0,380,0.0,98.0,Produtos acucarados
+350,Acucar cristal,0.0,400,0.0,100.0,Produtos acucarados
+351,Acucar demerara,0.0,400,0.0,100.0,Produtos acucarados
+352,Acucar organico,0.0,400,0.0,100.0,Produtos acucarados
+353,Mel de abelha,18.0,310,0.0,82.0,Produtos acucarados
+354,Glicose de milho xarope,20.0,320,0.0,80.0,Produtos acucarados
+355,Doces abobora em calda,32.0,250,1.0,66.0,Produtos acucarados
+356,Doces abobora em pasta,45.0,200,1.0,53.0,Produtos acucarados
+357,Doces goiabada em barra,25.0,310,1.0,73.0,Produtos acucarados
+358,Doces marmelada em pasta,30.0,270,0.0,67.0,Produtos acucarados
+359,Geleia de fruta diet,70.0,120,0.0,30.0,Produtos acucarados
+360,Geleia de fruta comum,30.0,270,0.0,68.0,Produtos acucarados
+361,Gomas de mascar com acucar,5.0,380,0.0,95.0,Produtos acucarados
+362,Gomas de mascar sem acucar,5.0,200,0.0,95.0,Produtos acucarados
+363,Cereais aveia flocos,8.0,390,14.0,66.0,Outros alimentos industrializados
+364,Cereais granola,5.0,430,10.0,70.0,Outros alimentos industrializados
+365,Cereais musli,8.0,380,9.0,70.0,Outros alimentos industrializados
+366,Po para mingau sabor chocolate,3.0,390,6.0,84.0,Outros alimentos industrializados
+367,Po para mingau sabor baunilha,3.0,390,6.0,84.0,Outros alimentos industrializados
+368,Achocolatado em po,2.0,390,6.0,86.0,Outros alimentos industrializados
+369,Chocolate barra ao leite,1.0,530,8.0,58.0,Outros alimentos industrializados
+370,Chocolate barra meio amargo,1.0,550,10.0,50.0,Outros alimentos industrializados
+371,Chocolate barra amargo,1.0,600,12.0,38.0,Outros alimentos industrializados
+372,Bebida lactea pronta sabor chocolate,80.0,90,3.0,15.0,Outros alimentos industrializados
+373,Bebida lactea pronta sabor morango,80.0,90,3.0,15.0,Outros alimentos industrializados
+374,Azeitona preta em conserva,50.0,220,2.0,6.0,Miscelaneas
+375,Azeitona verde em conserva,75.0,140,1.0,3.0,Miscelaneas
+376,Bacon frito,10.0,700,20.0,0.0,Miscelaneas
+377,Bacon cru,20.0,550,15.0,0.0,Miscelaneas
+378,Massa fresca cozida,60.0,170,6.0,32.0,Miscelaneas
+379,Pizza mussarela assada,40.0,260,10.0,35.0,Miscelaneas
+380,Pizza calabresa assada,35.0,300,12.0,30.0,Miscelaneas
+381,Sopa de legumes pronta,90.0,40,1.0,7.0,Miscelaneas
+382,Sopa de carne pronta,90.0,40,2.0,6.0,Miscelaneas
+383,Catchup,70.0,110,1.0,25.0,Miscelaneas
+384,Maionese tradicional,30.0,700,1.0,4.0,Miscelaneas
+385,Maionese light,50.0,500,1.0,4.0,Miscelaneas
+386,Mostarda,70.0,90,5.0,5.0,Miscelaneas
+387,Cerveja,93.0,40,0.0,4.0,Miscelaneas
+388,Vinho tinto seco,85.0,80,0.0,3.0,Miscelaneas
+389,Vinho branco seco,85.0,80,0.0,3.0,Miscelaneas
+390,Refrigerante cola,90.0,40,0.0,10.0,Miscelaneas
+391,Refrigerante guarana,90.0,40,0.0,10.0,Miscelaneas
+392,Refrigerante limao,90.0,40,0.0,10.0,Miscelaneas
+393,Refrigerante laranja,90.0,40,0.0,10.0,Miscelaneas
+394,Agua de coco,95.0,20,0.0,5.0,Miscelaneas
+395,Suco de fruta concentrado sem acucar,75.0,90,1.0,20.0,Miscelaneas
+396,Suco de fruta pronto sem acucar,90.0,40,0.0,10.0,Miscelaneas
+397,Suco de fruta pronto com acucar,85.0,60,0.0,15.0,Miscelaneas
+398,Cafe coado sem acucar,99.0,0,0.0,0.0,Miscelaneas
+399,Cafe expresso sem acucar,99.0,0,0.0,0.0,Miscelaneas
+400,Cha de ervas sem acucar,99.0,0,0.0,0.0,Miscelaneas
+401,Achocolatado pronto,88.0,60,2.0,9.0,Miscelaneas
+402,Leite de vaca integral com chocolate,88.0,60,3.0,8.0,Miscelaneas
+403,Leite de vaca integral com morango,88.0,60,3.0,8.0,Miscelaneas
+404,Leite de vaca integral com baunilha,88.0,60,3.0,8.0,Miscelaneas
+405,Feijao carioca cozido,72.5,100,6.0,18.0,Leguminosas e derivados
+406,Feijao preto cozido,72.0,100,7.0,17.0,Leguminosas e derivados
+407,Feijao branco cozido,72.0,100,7.0,17.0,Leguminosas e derivados
+408,Feijao fradinho cozido,72.0,100,7.0,17.0,Leguminosas e derivados
+409,Feijao de corda cozido,72.0,100,7.0,17.0,Leguminosas e derivados
+410,Grao de bico cozido,68.0,130,7.0,20.0,Leguminosas e derivados
+411,Lentilha cozida,70.0,110,8.0,19.0,Leguminosas e derivados
+412,Ervilha em conserva,70.0,100,6.0,17.0,Leguminosas e derivados
+413,Fava cozida,70.0,110,8.0,19.0,Leguminosas e derivados
+414,Soja cozida,60.0,170,17.0,10.0,Leguminosas e derivados
+415,Tofu (queijo de soja),80.0,80,8.0,2.0,Leguminosas e derivados
+416,Sopa de feijao pronta,90.0,40,2.0,6.0,Leguminosas e derivados
+417,Sopa de lentilha pronta,90.0,40,2.0,6.0,Leguminosas e derivados
+418,Sopa de ervilha pronta,90.0,40,2.0,6.0,Leguminosas e derivados
+419,Bebida de soja pronta sabor natural,90.0,40,3.0,5.0,Leguminosas e derivados
+420,Bebida de soja pronta sabor chocolate,90.0,60,3.0,9.0,Leguminosas e derivados
+421,Bebida de soja pronta sabor morango,90.0,60,3.0,9.0,Leguminosas e derivados
+422,Bebida de soja pronta sabor baunilha,90.0,60,3.0,9.0,Leguminosas e derivados
+423,Bebida de arroz pronta sabor natural,90.0,40,1.0,7.0,Leguminosas e derivados
+424,Bebida de arroz pronta sabor chocolate,90.0,60,1.0,11.0,Leguminosas e derivados
+425,Bebida de arroz pronta sabor morango,90.0,60,1.0,11.0,Leguminosas e derivados
+426,Bebida de arroz pronta sabor baunilha,90.0,60,1.0,11.0,Leguminosas e derivados
+427,Feijao carioca com arroz,69.0,130,8.0,22.0,Leguminosas e derivados
+428,Feijao preto com arroz,68.0,130,8.0,22.0,Leguminosas e derivados
+429,Feijao branco com arroz,68.0,130,8.0,22.0,Leguminosas e derivados
+430,Feijao fradinho com arroz,68.0,130,8.0,22.0,Leguminosas e derivados
+431,Feijao de corda com arroz,68.0,130,8.0,22.0,Leguminosas e derivados
+432,Grao de bico com arroz,65.0,150,9.0,23.0,Leguminosas e derivados
