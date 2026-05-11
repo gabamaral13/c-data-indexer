@@ -1,0 +1,18 @@
+# Arquivos objeto e executáveis compilados
+*.o
+*.out
+*.exe
+
+# Arquivo de dados binários gerado pelo próprio programa
+dados.bin
+
+# Diretórios e configurações de IDEs (VS Code, CLion, etc.)
+.vscode/
+.idea/
+cmake-build-debug/
+*.suo
+*.user
+
+# Arquivos temporários do Sistema Operacional
+.DS_Store
+Thumbs.db
